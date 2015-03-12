@@ -16,7 +16,7 @@ StrayBirds
 可以通过访问 [StrayBirds](http://minixalpha.github.io/StrayBirds/) 看到最终
 的效果，下面是截图:
 
-![ui-demo](/blog/images/ui_demo.png)
+![ui-demo](/trueman/images/ui_demo.png)
 
 ## 教程
 
@@ -29,7 +29,7 @@ StrayBirds
 4. 到 `_includes/comments.ext` 下，将 `disqus_shortname` 修改为你在 disqus 注册的站点短名字（这一步用于支持评论系统）
 5. 访问你的博客 http://minixbeta.github.io/StrayBirds/
 
-![create_project](/blog/images/create_project.gif)
+![create_project](/trueman/images/create_project.gif)
 
 如果你想修改项目的名字，例如将 StrayBirds 修改为 blog，那么你需要做的是
 
@@ -37,14 +37,14 @@ StrayBirds
 2. 将 `_config.yml` 中的 baseurl 修改为 /blog
 3. 通过 http://minixbeta.github.io/blog/ 来访问你的新博客
 
-![create_post](/blog/images/change_project_name.gif)
+![create_post](/trueman/images/change_project_name.gif)
 
 ### 添加文章
 
 在 `_post` 目录下添加形如 `2014-10-26-title.md` 的文章，用 markdown 格式
 撰写博客。
 
-![create_post](/blog/images/create_post.gif)
+![create_post](/trueman/images/create_post.gif)
 
 ## 感谢
 
