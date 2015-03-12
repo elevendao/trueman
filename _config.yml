@@ -1,0 +1,8 @@
+username: elevendao
+baseurl: /trueman
+#markdown: redcarpet
+markdown: kramdown
+safe: false
+highlighter: pygments
+#pygments: true
+title: 楚门的世界
